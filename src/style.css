@@ -1,0 +1,207 @@
+/*navbar*/
+.nav{
+    justify-content: space-around;
+    margin: 20px;
+    align-items: center;
+}
+.logo{
+    color: rgb(0, 120, 194);
+}
+.li{
+    text-decoration: none;
+    margin-left: 20px;
+    color: rgb(0, 120, 194) ;
+}
+/*home*/
+.homeh1{
+    color: rgb(0, 120, 194) ;
+    text-align: center;
+    margin-top: 20px;
+}
+.dashboardimg{
+    width: 100%;
+    height: auto;
+    
+}
+/*insert data*/
+.inserth1{
+    color: rgb(0, 120, 194) ;
+    text-align: center;
+    margin-top: 20px;
+
+}
+.parentinsert{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.insertform label{
+    margin: 20px;
+    font-size: 20px;
+    color:  rgb(0, 120, 194);
+}
+.insertform input{
+    margin: 20px;
+    width: 400px;
+}
+.insertform .inputthree{
+    margin-left: 88px;
+}
+.insertform .inputtwo{
+    margin-left: 88px;
+}
+.insertform .inputfour{
+    margin-left: 35px;
+}
+.insertform button{
+    width: 600px;
+    height: 40px;
+    border: none;
+    color: white;
+    background-color: rgb(0, 120, 194) ;
+    margin-left: 30px;
+    align-items: center;
+}
+
+/*edit data*/
+.edith1{
+    color: rgb(0, 120, 194) ;
+    text-align: center;
+    margin-top: 20px;
+}
+.parentedit{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.editform label{
+    margin: 20px;
+    font-size: 20px;
+    color:  rgb(0, 120, 194);
+}
+.editform input{
+    margin: 20px;
+    width: 400px;
+}
+.editform .inputtwo{
+    margin-left: 88px;
+}
+.editform .inputthree{
+    margin-left: 88px;
+}
+.editform .inputfour{
+    margin-left: 35px;
+}
+.editform button{
+    width: 600px;
+    height: 40px;
+    border: none;
+    color: white;
+    background-color: rgb(0, 120, 194) ;
+    margin-left: 30px;
+    align-items: center;
+}
+
+/*display data*/
+.displayh1{
+    color: rgb(0, 120, 194) ;
+    text-align: center;
+    margin-top: 20px;
+}
+.parentdisplay{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.displaydata{
+    width: 80%;
+    height: auto;
+    align-self: center;
+    
+}
+/*table*/
+.displaytable{
+    text-align: center;
+    font-size: 20px;
+    background: rgb(154,170,255);
+    background: radial-gradient(circle, rgba(154,170,255,1) 0%, rgb(230, 253, 255) 100%);
+}
+tr{
+    border: 2px solid black;
+}
+th{
+    color: rgb(0, 120, 194);
+    
+}
+
+/*search*/
+.searchh1{
+    text-align: center;
+    margin-top: 20px;
+    color: rgb(0, 120, 194) ;
+}
+.parentsearch{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+.searchbtn{
+    width: 400px;
+    height: 40px;
+    border: none;
+    color: white;
+    background-color: rgb(0, 120, 194) ;
+    margin-left: 30px;
+    align-items: center;
+    margin: 10px;
+}
+.searchinput{
+    width: 310px;
+}
+/*search by name*/
+.sbynh1{
+    text-align: center;
+    margin-top: 20px;
+    color: rgb(0, 120, 194) ;
+}
+.sbynparent{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+   
+}
+.sbyn table{
+    width: 800px;
+    margin-top: 30px;
+    background: rgb(154,170,255);
+    background: radial-gradient(circle, rgba(154,170,255,1) 0%, rgba(230,253,255,1) 100%);
+    
+}
+.sbyntr{
+    justify-content: space-evenly;
+}
+.sbyn{
+    text-align: center;
+}
+/*update page*/
+.updateh1{
+    text-align: center;
+    margin-top: 20px;
+    color: rgb(0, 120, 194) ;
+}
+.parentupdate{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+.update table{
+    width: 800px;
+    margin-top: 30px;
+    background: rgb(154,170,255);
+    background: radial-gradient(circle, rgba(154,170,255,1) 0%, rgba(230,253,255,1) 100%);
+}

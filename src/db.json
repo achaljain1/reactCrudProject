@@ -1,0 +1,32 @@
+{
+  "employees": [
+    {
+      "id": "04e3",
+      "empno": "123",
+      "name": "aadi",
+      "email": "aadijain0095@gmail.comm",
+      "contact": "9981398541"
+    },
+    {
+      "id": "1cdf",
+      "empno": "007",
+      "name": "sharad",
+      "email": "sharad@yaaho.com",
+      "contact": "8476984769"
+    },
+    {
+      "id": "528b",
+      "empno": "009",
+      "name": "aman p",
+      "email": "aman@hotmail.com",
+      "contact": "9823456489"
+    },
+    {
+      "id": "fa1a",
+      "empno": "010",
+      "name": "ash raj",
+      "email": "ash@hotmail.com",
+      "contact": "7887788778"
+    }
+  ]
+}
